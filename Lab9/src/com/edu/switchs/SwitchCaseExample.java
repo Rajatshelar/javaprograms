@@ -1,4 +1,4 @@
-package com.edu.switchs;
+package com.edu.switchs; 
 import java.util.Scanner;
 
 public class SwitchCaseExample {
