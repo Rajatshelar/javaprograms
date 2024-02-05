@@ -10,7 +10,7 @@ public class CheckVowel {
 		
 		Scanner scanner = new Scanner (System.in);
 		
-		System.out.println("Enter the character.");
+		System.out.println("Enter the character."); 
 		ch =scanner.next().toLowerCase().charAt(0)
 
 	}
