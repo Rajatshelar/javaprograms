@@ -14,5 +14,5 @@ public class CheckVowel {
 		ch =scanner.next().toLowerCase().charAt(0)
 
 	}
-
+  
 }
