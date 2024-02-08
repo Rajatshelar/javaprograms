@@ -3,7 +3,7 @@ package com.edu.arith;
 public class Addition {
 
 	public static void main(String[] args) {
-		float  n1,n2,s ; //declaration
+		float  n1,n2,s ; //declaration 
 		n1=10.2f;
 		n2=56.4f;
 		
